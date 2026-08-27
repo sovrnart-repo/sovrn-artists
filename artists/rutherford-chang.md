@@ -281,10 +281,6 @@ accordingly.
 - *Why Every Collector of Digital Art Must Have CENTS by Rutherford Chang* — <https://medium.com/@wqtqgwhpn/why-every-collector-of-digital-art-must-have-cents-by-rutherford-chang-bc900f2ad9b1>
 - *Art on Bitcoin Feature #1: From Copper to Email to Milestones* — <https://medium.com/@milestones_nft/art-on-bitcoin-feature-1-from-copper-to-email-to-milestones-7de7834e72b9>
 
-## Contact
-
-Project inquiries: <https://www.sovrn.art/cents/inquiries>
-
 ## From the artist's own press page
 
 The full list from Rutherford Chang's press page, in his own citation style —
@@ -359,3 +355,7 @@ one of those.
 - Madra, Yahya M., "Encircling the Real," Rethinking Marxism, Vol. 15, No. 3, July 2003, p. 316 - 325 — <https://www.tandfonline.com/doi/abs/10.1080/0893569032000131613>
 - Powhida, William, "Artseen: Global Priority," The Brooklyn Rail, April/May 2003 — <https://brooklynrail.org/2003/04/artseen/global-priority>
 - Chang, Ritherford [sic], "NES Achievers," Nintendo Power, September - October 1989, p. 90 — <https://rutherfordchang.com/nintendo.pdf>
+
+## Contact
+
+Project inquiries: <https://www.sovrn.art/cents/inquiries>
