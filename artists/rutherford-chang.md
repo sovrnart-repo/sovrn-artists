@@ -284,3 +284,78 @@ accordingly.
 ## Contact
 
 Project inquiries: <https://www.sovrn.art/cents/inquiries>
+
+## From the artist's own press page
+
+The full list from Rutherford Chang's press page, in his own citation style —
+author, title, publication, date. Most of it concerns *We Buy White Albums* and
+*Game Boy Tetris* rather than CENTS, which is the point: it is the record of the
+practice CENTS came out of, and it runs from 2005 to 2024 in six languages.
+
+Every link was tried on 27 August 2026. **5 did not resolve** and are marked in
+place rather than dropped. Links answering 401, 403 or 429 are not marked —
+those are paywalls and bot walls, indistinguishable from a dead link from
+outside a browser and usually live inside one. The Wall Street Journal entry is
+one of those.
+
+- (untitled entry) — <https://nftnow.com/art/christies-announces-cents-flagship-ordinal-auction/>  *(also above)*
+- Makridis, Christos, "The Halvening NYC - Bitcoin Returns On NFT NYC's Opening Night," Forbes, April 3, 2024 — <https://www.forbes.com/sites/zengernews/2024/04/03/the-halvening-nyc--bitcoins-return-on-nft-nycs-opening-night/>
+- Drobnick, Jim, "Rutherford Chang. The Record Collector as Artist-Curator," Revue Musicale OICRM, Vol. 10, No. 1, June, 2023 — <https://revuemusicaleoicrm.org/rmo-vol10-n1/rutherford-chang/>
+- Bromhead, Erin, "This Guy Owns Over 3,000 White Albums," Monster Children, February 24, 2022 — <https://www.monsterchildren.com/this-guy-owns-over-3000-white-albums/>  *(did not resolve, 27 Aug 2026)*
+- Kuiper, Stefan, "De magie van de hoes van The White Album," de Volkskrant, June 15, 2020 — <https://www.volkskrant.nl/cultuur-media/de-magie-van-de-hoes-van-the-white-album~b00aa0d5/>
+- Dax, Max, "Ich bin kein Beatles-fan," HALLE4, Deichtorhallen, April 4, 2019 — <https://www.deichtorhallen.de/halle4/ich-bin-kein-beatles-fan>
+- Koopmann, Jan-Paul, "Nach der Party ist nach der Party," Jungle World, March 14, 2019 — <https://jungle.world/artikel/2019/11/nach-der-party-ist-nach-der-party#slideshow>
+- Kothenschulte, Daniel, "Das weißere Album," Monopol, March 8, 2019 — <https://www.monopol-magazin.de/das-weissere-album?photo=1#slideshow>
+- Niessen, Martin, "Hyper! A Journey into Art and Music," Kulturzeit, 3sat, March 4, 2019 — <https://rutherfordchang.com/sat3.mp4>
+- Padtberg, Carola, "Massenkompatibel in die Magengrube," Der Spiegel, March 1, 2019 — <http://www.spiegel.de/kultur/gesellschaft/hyper-ausstellung-in-hamburg-kunst-wie-musik-a-1255656.html>
+- Pohle, Julika, "High Fidelity Visuality," Die Welt, March 1, 2019, p. 19 — <https://www.welt.de/print/welt_kompakt/hamburg/article189609965/High-Fidelity-Visuality.html>
+- Perkovic, Vivian, "2173 weiße Alben," Deutschlandfunk Kultur, February 28, 2019 — <https://www.deutschlandfunkkultur.de/ausstellung-hyper-in-hamburg-2173-weisse-alben.2177.de.html?dram:article_id=442314>
+- "Kunst und Musik im Dialog: Ausstellung HYPER! in den Deichtorhallen," 17:30 Sat.1 Regional, February 28, 2019 — <https://rutherfordchang.com/sat1.mp4>
+- Umphred, Neal, "An Endless Fascination with the Beatles' White Album," Medium, January 11, 2019 — <https://medium.com/tell-it-like-it-was/an-endless-fascination-with-the-beatles-white-album-2ad6dd20715a>
+- Edgar, Josh, "They Say It's Your Birthday," Vinyl Me Please, November 20, 2018 — <http://www.vinylmeplease.com/magazine/they-say-its-your-birthday/>  *(did not resolve, 27 Aug 2026)*
+- Bazarian, Tommy, "We Buy White Albums," Studio 360 with Kurt Andersen, PRI, November 15, 2018 — <https://www.pri.org/stories/2018-11-15/we-buy-white-albums>
+- Kuligowski, Waldemar, "The White Album opowiada historię," Czas Kultury, 2/2018, p. 81 - 89 — <https://www.ceeol.com/search/article-detail?id=676620>
+- Yulman, Nick, "Rutherford Chang on the art of collection," The Creative Independent, July 7, 2017 — <https://thecreativeindependent.com/people/rutherford-chang-on-the-art-of-collection/>
+- Kikuchi, Daisuke, "Game Boy Tetris: Rutherford Chang," The Japan Times, March 1, 2016 — <https://www.japantimes.co.jp/culture/2016/03/01/arts/openings-in-tokyo/game-boy-tetris-rutherford-chang/>
+- Ohayon, Shai, "Rutherford Chang: Game Boy Tetris," The Container, 2016 — <https://www.amazon.com/Rutherford-Chang-Tetris-Container-Catalogues/dp/152399858X>
+- Conner, Michael, "Nintendo Power: Rutherford Chang plays Tetris," Rhizome, January 13, 2016 — <http://rhizome.org/editorial/2016/jan/13/chang-tetris/>
+- Chiaverina, John, "What Does It Take to Be Number One?," ARTnews, January 12, 2016 — <http://www.artnews.com/2016/01/12/what-does-it-take-to-be-number-one-rutherford-chang-is-playing-tetris-live-on-rhizomes-website-aiming-for-supremacy/>
+- Beaumont-Thomas, Ben, "Blockbusters: how Rutherford Chang became the second best Tetris player in the world," The Guardian, January 7, 2016 — <http://www.theguardian.com/artanddesign/2016/jan/07/tetris-rutherford-chang-artist-nintendo-game-boy>
+- Valta, Reijo, "Valkoiset tuplat," Kaltio Pohjoinen Kulttuurilehti, 1/2016, p. 19 - 20 — <https://kaltio.fi/valkoiset-tuplat/>
+- Fujimoto, Kunihiko, "Record Jacket Junkie!," CD Journal, 2015, p. 33 - 39 — <http://www.amazon.co.jp/dp/4861711363>
+- Fanen, Sophian, "Beatles: mille nuances du Blanc," Libération, September 3, 2014 — <http://next.liberation.fr/musique/2014/09/03/beatles-mille-nuances-du-blanc_1093017>
+- Nunes, Sinead, "Rutherford Chang: Why I Buy White Albums," Art in Liverpool, September 1, 2014 — <http://www.artinliverpool.com/rutherford-chang-why-i-buy-white-albums/>  *(did not resolve, 27 Aug 2026)*
+- Snell, Tony, "Tony Snell in the Morning," BBC Radio Merseyside, August 15, 2014 — <https://rutherfordchang.com/merseyside.mp3>
+- Mullen, Tom, "Beatles' White Albums star in Liverpool exhibition," BBC News, August 14, 2014 — <http://www.bbc.co.uk/news/uk-england-merseyside-28776667>
+- Hughes, Lorna, "A month in the life of a Beatles White Album collection," Liverpool Echo, July 30, 2014 — <http://www.liverpoolecho.co.uk/news/liverpool-news/beatles-month-life-white-album-7537616>
+- Smith, Matthew Ryan, "Blackbirds and Growing Pains: A Conversation with Rutherford Chang," Yishu, Vol. 13, No. 2, July/August 2014, p. 84 - 93 — <https://www.academia.edu/6109852/Blackbirds_and_Growing_Pains_A_Conversation_with_Rutherford_Chang>
+- Kooi, Meredith, "We Are Perceiving Bodies: Observations of Four Works on View in Atlanta," Bad at Sports, January 23, 2014 — <http://badatsports.com/2014/reminder-we-are-perceiving-bodies-observations-of-four-works-on-view-in-atlanta/>
+- Alexander, Andrew, "A Critic's Notebook: Rutherford Chang Buys White Albums," Creative Loafing, January 15, 2014 — <http://clatl.com/freshloaf/archives/2014/01/15/a-critics-notebook-rutherford-chang-buys-white-albums>
+- Fricke, David, "My Year in Rock With Springsteen, Lou Reed and Lots of Guitars," Rolling Stone, January 14, 2014 — <https://www.rollingstone.com/music/music-news/my-year-in-rock-with-springsteen-lou-reed-and-lots-of-guitars-242515/>
+- Harvey, Doug, "The Other White Album," Artillery, January 7, 2014 — <http://artillerymag.com/under-the-radar-3/>
+- Richards, Chris, "Critic's Notebook: Danielle Bradbery, Lil St. Louis, Rutherford Chang," The Washington Post, November 26, 2013 — <http://www.washingtonpost.com/blogs/style-blog/wp/2013/11/26/critics-notebook-danielle-bradbery-lil-st-louis-rutherford-chang/>  *(did not resolve, 27 Aug 2026)*
+- Kozinn, Allan, "Listening to the Beatles 'White Albums' 100 Times, All at Once," The New York Times, November 23, 2013, p. C2 — <http://artsbeat.blogs.nytimes.com/2013/11/21/listening-to-the-beatles-white-album-100-times-all-at-once/>
+- Pasternack, Alex, "One Hundered White Albums Layered on Top of Each Other," Motherboard, November 17, 2013 — <https://www.vice.com/en/article/539m7x/one-hundred-white-albums-layered-on-top-of-each-other>
+- Price, Holly Cara, "Rutherford Chang Wants Your White Albums," Huffington Post, March 6, 2013 — <http://www.huffingtonpost.com/holly-cara-price/rutherford-chang-we-buy-white-albums_b_2810659.html>
+- Jones, Corinne, "Rutherford Chang: can't get enough of the White Album," The Guardian, March 2, 2013 — <http://www.theguardian.com/music/2013/mar/02/beatles-white-album-covers-rutherford-chang>
+- Maly, Tim, "'We Buy White Albums': The Unique Decay of Mass-Produced Items," Wired, February 27, 2013 — <https://www.wired.com/2013/02/we-buy-white-albums/>
+- Kozinn, Allan, "A Plain White Square, and Yet So Fascinating," The New York Times, February 23, 2013, p. C3 — <http://www.nytimes.com/2013/02/23/arts/design/artists-obsession-with-beatles-white-album-on-display.html>
+- Meier, Allison, "Helter Skelter! A Record Store that Only Stocks the White Album," Hyperallergic, February 21, 2013 — <http://hyperallergic.com/65570/we-sell-white-albums/>
+- Paz, Eilon, "Rutherford Chang - We Buy White Albums," Dust & Grooves, February 15, 2013 — <http://www.dustandgrooves.com/rutherford-chang-we-buy-white-albums/>
+- Chin, Josh, "'The Class of 2008.' A Remarkable Year in Stipple," The Wall Street Journal, March 1, 2012 — <http://blogs.wsj.com/chinarealtime/2012/03/01/the-class-of-2008-a-remarkable-year-in-stipple/>
+- Schaefer, John, "Supercollectors," Soundcheck, WNYC, February 15, 2012 — <https://www.newsounds.org/story/187082-super-collection-white-albums/>
+- Weyland, Jocko, "China Apartments," Apartamento, Issue 4, Autumn/Winter 2009-10, p. 170 - 177 — <https://www.apartamentomagazine.com/archive/china-apartments/>
+- Honigman, Ana Finel, "Bradford Bailey and Rutherford Chang in Conversation with Ana Finel Honigman," Saatchi Online, February 14, 2009 — <http://magazine.saatchionline.com/contributors/bradford_bailey_and_rutherford>
+- Coomer, Martin, "Bradford Bailey, Rutherford Chang," Time Out London, December 11 - 17, 2008, p. 48 — <https://rutherfordchang.com/timeout.pdf>
+- Zhu Mingqi, "The Same Urgency in 2008," Domus China, Issue Plus003, June 2008, p. 21 - 25 — <https://rutherfordchang.com/domus.pdf>
+- Ho Tzu Nyen, "R(A) Rated Artistic: Artists Take on Cinema," Art AsiaPacific, Spring 2005, No. 44, p. 80 - 81 — <https://artasiapacific.com/issue/singapore-ra-rated-artistic>
+- Chow, Clara, "Dying for Andy Lau," The Straits Times, Life Section, October 27, 2004, p. 5 — <https://rutherfordchang.com/straits.pdf>
+- Cha, Carina, "Singapore Wants In," Art AsiaPacific, Fall 2004, No. 42, p. 21 — <https://rutherfordchang.com/epic_aap.pdf>
+- Ogle, Sandra, "The Meaning of 'The Presidency'," Recount: A Magazine of Contemporary Politics, October 20, 2004 — <https://nyujournalismprojects.org/recount/article/59/>
+- Cotter, Holland, "Art in Review; 'No Return'," The New York Times, Section E, October 1, 2004, p. 31 — <http://query.nytimes.com/gst/fullpage.html?res=9C06E6DE1338F932A35753C1A9629C8B63>
+- Chang, Rutherford, "Alphabetized Newspaper," Cabinet, Issue 15, Fall 2004, p. 96 - 97 — <http://cabinetmagazine.org/issues/15/chang.php>
+- Roth, Marko, "Why Literature Matters When It's Somewhere Else," n+1, Issue 1, Summer 2004, p. 96 — <https://nplusonemag.com/issue-1/essays/why-literature-matters-when-its-somewhere-else/>  *(did not resolve, 27 Aug 2026)*
+- Rosenberg, Karen, "Market Share," The Village Voice, August 27 - September 2, 2003, p. 92 — <https://www.villagevoice.com/market-share/>
+- Madra, Yahya M., "Encircling the Real," Rethinking Marxism, Vol. 15, No. 3, July 2003, p. 316 - 325 — <https://www.tandfonline.com/doi/abs/10.1080/0893569032000131613>
+- Powhida, William, "Artseen: Global Priority," The Brooklyn Rail, April/May 2003 — <https://brooklynrail.org/2003/04/artseen/global-priority>
+- Chang, Ritherford [sic], "NES Achievers," Nintendo Power, September - October 1989, p. 90 — <https://rutherfordchang.com/nintendo.pdf>
