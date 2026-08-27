@@ -54,7 +54,7 @@ evidence of the rabbit's role surfacing across history.
 from *AI Spaceships* is one of eleven works in the Sovrn Full Ethereum Set,
 accepted into the museum's permanent collection of photography and media art.
 Facilitated by **Julia Staudach**, Curator for Digital Art; institution is OÖ
-Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+Landes-Kultur GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 That title also independently corroborates the edition size: the museum's own
 listing reads "15/501".
@@ -93,3 +93,17 @@ carry it.
 | *RABBIT TAKEOVER* | <https://www.sovrn.art/curated/rabbit-takeover> |
 | Raster — AI Spaceships | <https://www.raster.art/artwork/anne-spalter-ai-spaceships-by-anne-spalter> |
 | Raster — RABBIT TAKEOVER | <https://www.raster.art/artwork/rabbit-takeover-by-anne-spalter> |
+
+## Press and further reading
+
+sovrn.art carries **no press links for Anne Spalter** beyond her own site — which
+is a gap on our side rather than a shortage of material, given her exhibition and
+publication history.
+
+- <https://annespalter.com/>
+
+Her bibliography as recorded in our notes, for which we hold no links: *DIGITAL
+ART: 20 Pioneers* (Schiffer, 2025), *On NFTs* (Taschen, 2025), *Dismantling the
+Patriarchy, Bit by Bit* (Bloomsbury, 2021), and she is the author of *The Computer
+in the Visual Arts*. Collections include the Centre Pompidou, the V&A, the RISD
+Museum and the Buffalo AKG. If you want citations we can ask her for them.

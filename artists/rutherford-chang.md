@@ -114,6 +114,18 @@ The companion work, and the one that was auctioned.
 Note this is a distinct work from the 10,000 Cents, and is the piece your page
 should link when it mentions the cube.
 
+## The collection's gallery inscription
+
+The collection also has an **on-chain gallery inscription** — a single inscription
+that gathers the set rather than any one Cent:
+
+- Inscription **121289715**, titled *CENTS*, inscribed 1 March 2026 —
+  <https://ordinals.com/inscription/c871da405f1e0b955d135e789da88fe5a2c5d15c15d485235c7f10a05a827f71i0>
+
+Ordinals.com shows it as a gallery of **10,001** items. If you want one canonical
+on-chain address for CENTS as a whole — as opposed to the Block, or an individual
+Cent — this is it, and it is the better link for a collection-level page.
+
 ---
 
 ## Traits — what they are, and what they are not
@@ -182,6 +194,7 @@ do not reproduce it.
 |---|---|
 | Artist site | <http://rutherfordchang.com/> |
 | Collection explorer, traits, listings, sales | <https://cents.vision/> |
+| Gallery inscription | <https://ordinals.com/inscription/c871da405f1e0b955d135e789da88fe5a2c5d15c15d485235c7f10a05a827f71i0> |
 | Sovrn's CENTS page | <https://www.sovrn.art/cents> |
 | Project description | <https://www.sovrn.art/cents/project-description> |
 | CENTS Block page | <https://www.sovrn.art/cents/block-839969> |
@@ -213,6 +226,60 @@ you would like them at print resolution, ask and we will send originals with the
 credit line.
 
 ---
+
+## Press
+
+Everything sovrn.art links, grouped. Titles are as the site gives them.
+
+**Reviews and features**
+
+- Frieze — *Rutherford Chang's Art of Accumulation* — <https://www.frieze.com/article/rutherford-chang-hundreds-and-thousands-2026-review>
+- ARTnews / Art in America — *After His Untimely Death, Rutherford Chang's Survey Rewrites What a Square Can Do* — <https://www.artnews.com/art-in-america/aia-reviews/rutherford-chang-ucca-beijing-survey-tetris-1234783323/>
+- ARTnews / Art in America — *The 21st Century's Biggest Art Trend Is Not a Style* (systems art; Hans Haacke) — <https://www.artnews.com/art-in-america/features/21st-century-biggest-trend-not-style-systems-art-hans-haacke-1234786483/>
+- The Art Newspaper — *From 10,000 pennies to a Beatles record haul, the obsessive work of Rutherford Chang* — <https://www.theartnewspaper.com/2026/01/14/from-pennies-to-a-beatles-record-haul-the-obsessive-work-of-rutherford-chang-goes-on-show-in-beijing>
+- Monopol — *Geschichten in Kupfer und Vinyl* — <https://www.monopol-magazin.de/rutherford-chang-hundreds-and-thousands-center-for-contemporary-art-beijing-review>
+- Interalia Magazine — *Rutherford Chang: Hundreds and Thousands* — <https://www.interaliamag.org/articles/rutherford-chang-hundreds-and-thousands/>
+- Bitcoin Magazine — *Rutherford Chang Retrospective: Hundreds and Thousands at UCCA Beijing* — <https://bitcoinmagazine.com/culture/rutherford-chang-retrospective-hundreds-and-thousands-at-ucca-beijing>
+- nft now — *Christie's Announces CENTS Flagship Ordinal Auction* — <https://nftnow.com/art/christies-announces-cents-flagship-ordinal-auction/>
+- Beijing Daily — 一展带你看懂观念艺术，张能傲回顾展"成百上千"UCCA开幕 — <https://news.bjd.com.cn/2026/01/17/11529440.shtml>
+- QQ News — 收藏、重复与文化记忆｜"张能傲：成百上千"正在UCCA展出 — <https://news.qq.com/rain/a/20260301A02TA900>
+- The Matthew and Rizzle Show (podcast) — <https://pods.media/mars/a-crazy-tuesday-in-cryptoland>
+
+**Institutional and reference**
+
+- UCCA — *Rutherford Chang: Hundreds and Thousands* — <https://ucca.org.cn/en/exhibition/rutherford-chang/>
+- Christie's — CENTS Block 839969, *Beyond Screen*, lot 224213 — <https://onlineonly.christies.com/s/beyond-screen/rutherford-chang-b-1979-10/224213>
+- Taschen — *On NFTs* — <https://www.taschen.com/en/collection/on-nfts/>
+- Robert Alice, editor of *On NFTs* — <https://www.robertalice.com/>
+- Philip Tinari — <https://philtinari.com>
+- Schwartzman& — representation — <https://www.schwartzmanand.com/>
+- Ocula — artist page, exhibitions and biography — <https://ocula.com/artists/rutherford-chang/>
+- CENTSbot — <https://centsbot.up.railway.app/>
+- *WTF Happened in 1971* — context for the monetary argument — <https://wtfhappenedin1971.com/>
+
+**Collector and community essays**
+
+These are written by collectors and members of the CENTS community rather than
+by press, and sovrn.art carries them as part of the record. Weight them
+accordingly.
+
+- *MAKES CENTS: brief interviews with CENTS collectors* — <https://medium.com/@shibboleth88/makes-cents-1ec365008968>
+- *CENTS & digital conceptual art* — <https://medium.com/@shibboleth88/cents-digital-conceptual-art-258b836a16a1>
+- *CENTS & M. Spalter's view of iconic artwork* — <https://medium.com/@shibboleth88/cents-m-spalters-view-of-iconic-artwork-b3fc32cfa751>
+- *Tracing Back Chang's Alchemy* — <https://medium.com/@Offchain_Wizard/tracing-back-changs-alchemy-a6aa08553bf0>
+- *Materiality and Signification: Rutherford Chang's CENTS and Semiotics* — <https://medium.com/@stenreiss/materiality-and-signification-rutherford-changs-cents-and-semiotics-33d0161a4923>
+- *CENTS as a Store of Value. A Thesis* — <https://medium.com/@become.eth/cents-as-a-store-of-value-a-thesis-b176596c35c2>
+- *CENTS as an Artistic Expression of Bitcoin's Core Ideas* — <https://medium.com/@ml_54234/cents-as-an-artistic-expression-of-bitcoins-core-ideas-a2b9ec152a98>
+- *CENTS – Reflections on Mint Years and their Long-Term Significance* — <https://medium.com/@ml_54234/cents-reflections-on-mint-years-and-their-long-term-significance-796df69d837b>
+- *Lustrous CENTS – a Conceptual Contradiction?* — <https://medium.com/@ml_54234/lustrous-cents-a-conceptual-contradiction-dba80c0283c7>
+- *From Blue to Molten Copper* — <https://medium.com/@ml_54234/from-blue-to-molten-copper-1ab05602f4e0>
+- *Rutherford Chang's Conceptual Collecting* — <https://medium.com/@ml_54234/rutherford-changs-conceptual-collecting-9250dcffdc81>
+- *Thoughts about the unique nature of CENTS traits and their significance* — <https://medium.com/@ml_54234/thoughts-about-the-unique-nature-of-cents-traits-and-their-significance-308dc70ee3d4>
+- *CENTS: An Exploration of Value on the Bitcoin Blockchain* — <https://medium.com/@shnrrsx/cents-an-exploration-of-value-on-the-bitcoin-blockchain-66884ad85e43>
+- *Some thoughts on life, our monetary fiat system, bitcoin, art, and a bet* — <https://medium.com/@shnrrsx/some-thoughts-on-life-our-monetary-fiat-system-bitcoin-art-and-a-bet-coupled-with-a-fantastic-b08e41afba0d>
+- *The Enduring Echo: Rutherford Chang's CENTS and the Slow Burn Legacy of the Avant-Garde* — <https://medium.com/@wqtqgwhpn/the-enduring-echo-rutherford-changs-cents-and-the-slow-burn-legacy-of-the-avant-garde-ab694fe178c4>
+- *Why Every Collector of Digital Art Must Have CENTS by Rutherford Chang* — <https://medium.com/@wqtqgwhpn/why-every-collector-of-digital-art-must-have-cents-by-rutherford-chang-bc900f2ad9b1>
+- *Art on Bitcoin Feature #1: From Copper to Email to Milestones* — <https://medium.com/@milestones_nft/art-on-bitcoin-feature-1-from-copper-to-email-to-milestones-7de7834e72b9>
 
 ## Contact
 

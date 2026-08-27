@@ -62,7 +62,7 @@ If a page states a number inside a display heading, check the contract.
 
 **Francisco Carolinum, Linz — permanent collection.** *Admiral Rush* is one of
 eleven works in the Sovrn Full Ethereum Set. Curator Julia Staudach; OÖ
-Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+Landes-Kultur GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 bashobits wrote an essay placing *Admiral Rush* in the art history of mobility,
 from Turner onward. Ask us if you would like it — it is in our corpus rather than
@@ -87,3 +87,11 @@ of Mobility*.
 | Artist site | <https://bashobits.com> |
 | *Seasons of Mobility* | <https://www.sovrn.art/curated/seasons-of-mobility> |
 | Raster | <https://www.raster.art/artwork/seasons-of-mobility-by-bashobits> |
+
+## Press and institutional links
+
+- NEORT · Screens Contextualized — <https://screens.neort.io/>
+- NEORT Screens — the work as shown, *Park in Park* — <https://screens.neort.io/art/park-in-park>
+- DIG SHIBUYA — <https://digshibuya.com/> (the `/en/` path sovrn.art links has
+  since 404'd; the site now leads with its current year)
+- Francisco Carolinum, Linz — <https://www.ooekultur.at/location-detail/francisco-carolinum-linz>

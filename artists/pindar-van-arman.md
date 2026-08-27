@@ -184,7 +184,9 @@ Staudach. Billed as the world's first museum exhibition of artists from the
 CryptoPunk community — only artists who own one or more CryptoPunks. Van Arman
 was among them, alongside Martin Lukas Ostachowski. Same venue and curator as the
 Sovrn Full Ethereum Set, but a separate exhibition.
-<https://www.ooekultur.at/en/exhibitions-events/art-of-punk>
+<https://www.ooekultur.at/en/exhibitions-events/art-of-punk> — **note this
+  page has since been taken down** (404 as of 27 August 2026); the museum itself
+  is at <https://www.ooekultur.at/en/location-detail/francisco-carolinum-linz>
 
 ---
 
@@ -212,6 +214,7 @@ byteGAN metadata strictly, this is the one that will break it.
 | | |
 |---|---|
 | Artist site | <https://www.vanarman.com> |
+| bitGANs | <https://bitgans.com/> |
 | *Reflection* | <https://www.sovrn.art/curated/reflection> |
 | — the on-chain account | <https://www.sovrn.art/curated/reflection/on-chain> |
 | *byteGANs* | <https://www.sovrn.art/curated/bytegans> |
@@ -227,3 +230,25 @@ files in all, *Reflection*, *Wunderkammer* and *byteGANs* — as static SVG serv
 from our own origin, decoded from exactly what `tokenURI` returns and otherwise
 untouched. If you ever want a rendering source that cannot go dark independently
 of your own site, ask and we will point you at it.
+
+## Press and institutional links
+
+Everything sovrn.art links for Van Arman.
+
+- LACMA — *New Acquisition: Cozomo de' Medici Collection*, the museum's own post on the gift — <https://unframed.lacma.org/2023/02/24/new-acquisition-cozomo-de-medici-collection>
+- LACMA — <https://www.lacma.org>
+- Museum of Crypto Art — the permanent collection — <https://museumofcryptoart.com/collections/the-permanent-collection>
+- Museum of Crypto Art — <https://museumofcryptoart.com/>
+- Christie's — *Augmented Intelligence*. **The link sovrn.art carries for this
+  no longer resolves** (christies.com returns a 404 as of 27 August 2026) and we
+  have not found a replacement — an `augmented-intelligence` auction URL still on
+  christies.com turns out to be a different sale entirely. The exhibition is real:
+  *Emerging Faces* appears in our records as "New York, Augmented Intelligence
+  group auction, 2025". Treat the event as sourced, the link as broken.
+- byteGANs on SuperRare — <https://superrare.com/vanarman>
+- bitGANs — the collective the byteGANs grew out of — <https://bitgans.com/>
+- *Emerging Faces* on the artist's site — <https://www.vanarman.com/emergence>
+- Lumen Prize 2025, Still Image finalist — <https://lumenprize.org/2025-still-image-finalists/pindar-van-arman>
+- ART OF PUNK, OÖ Landes-Kultur — <https://www.ooekultur.at/en/exhibitions-events/art-of-punk> — **note this
+  page has since been taken down** (404 as of 27 August 2026); the museum itself
+  is at <https://www.ooekultur.at/en/location-detail/francisco-carolinum-linz>

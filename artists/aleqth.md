@@ -63,7 +63,7 @@ consistently, tell us which and we will follow.
 **Francisco Carolinum, Linz — permanent collection.** *Page 122* is one of eleven
 works in the Sovrn Full Ethereum Set — a single page of the book, in a museum
 collection of photography and media art. Curator Julia Staudach; OÖ Landes-Kultur
-GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 ---
 
@@ -71,6 +71,14 @@ GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
 
 | | |
 |---|---|
+| Artist site | <https://www.aleqth.com/> |
 | *cope. Vol 1* | <https://www.sovrn.art/curated/cope-vol-1> |
 | Raster — the work | <https://www.raster.art/artwork/cope-by-aleqth> |
 | Raster — the artist | <https://www.raster.art/artist/alex-headlam> |
+
+## Links beyond the work
+
+- aleqth.com — the artist's own site — <https://www.aleqth.com/>
+
+sovrn.art carries no press coverage of aleqth. The Dean Baquet detail comes from
+his own account, not from a published source, so treat it as artist-supplied.

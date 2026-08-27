@@ -56,7 +56,7 @@ Our own pages present them large and full-bleed for this reason.
 
 **Francisco Carolinum, Linz — permanent collection.** *Happy Sophistication* is
 one of eleven works in the Sovrn Full Ethereum Set. Curator Julia Staudach; OÖ
-Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+Landes-Kultur GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 ---
 
@@ -64,5 +64,13 @@ Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
 
 | | |
 |---|---|
+| Artist site | <https://www.airtists.com/> |
 | *Possibility Spaces* | <https://www.sovrn.art/curated/possibility-spaces> |
 | Raster | <https://www.raster.art/artwork/possibility-spaces-by-look-highward> |
+
+## Links beyond the work
+
+- airtists.com — <https://www.airtists.com/>
+
+sovrn.art carries no press coverage of Look Highward. If you need biography
+beyond what is here, we would have to ask the artist.

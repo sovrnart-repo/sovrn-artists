@@ -49,7 +49,7 @@ not a separate edition.
 
 **Francisco Carolinum, Linz — permanent collection.** *SIGHTSEERS 179* is one of
 eleven works in the Sovrn Full Ethereum Set. Curator Julia Staudach; OÖ
-Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+Landes-Kultur GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 **Arab Bank (Switzerland) Ltd — Art by ABS collection.** Harman holds an artist
 entry in the bank's collection. *This is not documented on sovrn.art* — the
@@ -80,7 +80,14 @@ and *SIGHTSEERS* is the plain one:
 
 | | |
 |---|---|
+| Project site | <http://sightseers.io> |
 | *SIGHTSEERS* | <https://www.sovrn.art/curated/sightseers> |
 | *Sightseers: Perimeter Town* | <https://www.sovrn.art/curated/perimeter-town> |
 | Raster — SIGHTSEERS | <https://www.raster.art/artwork/sightseers-by-norman-harman> |
 | Raster — Perimeter Town | <https://www.raster.art/artwork/sightseers-perimeter-town-by-norman-harman> |
+
+## Press and institutional links
+
+- Arab Bank (Switzerland), Art by ABS — the artist's entry, and the independent source for SIGHTSEERS being 500 works — <https://www.arabbank.ch/about-us/art/collection/artist/norman-harman>
+- Francisco Carolinum, Linz — <https://www.ooekultur.at/location-detail/francisco-carolinum-linz>
+- sightseers.io — the project's own site — <http://sightseers.io>

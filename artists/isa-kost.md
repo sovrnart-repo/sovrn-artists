@@ -19,7 +19,7 @@ in which finding speaks to what is lost. She mixes analog techniques
 (printmaking, collage, embroidery) with digital ones, and describes herself as an
 explorer setting out to discover new lands or species.
 
-- <https://isakost.net>
+- <https://www.isakost.net>
 
 ---
 
@@ -73,7 +73,7 @@ running 1–108.
 **Francisco Carolinum, Linz — permanent collection.** *Sacred Foot* is one of
 eleven works in the Sovrn Full Ethereum Set, and the most recent of them.
 Curator Julia Staudach; OÖ Landes-Kultur GmbH.
-<https://www.sovrn.art/museums/fransisco-carolinum>
+<https://www.sovrn.art/collections/fransisco-carolinum>
 
 ---
 
@@ -81,6 +81,12 @@ Curator Julia Staudach; OÖ Landes-Kultur GmbH.
 
 | | |
 |---|---|
-| Artist site | <https://isakost.net> |
+| Artist site | <https://www.isakost.net> |
 | *Wunderkammer* | <https://www.sovrn.art/curated/wunderkammer> |
 | Raster | <https://www.raster.art/artwork/wunderkammer-by-isa-kost> |
+
+## Press and background links
+
+- Dada.art — the drawing platform and collective she worked with, 2019–2023 — <https://dada.art>
+- Steemit — where she came to blockchain in 2018 — <https://steemit.com>
+- Francisco Carolinum, Linz — <https://www.ooekultur.at/location-detail/francisco-carolinum-linz>

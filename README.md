@@ -47,6 +47,24 @@ matter:
 - **Three Raster slugs are not derivable from the title**, and are given in full
   in the relevant documents.
 
+## Press
+
+Each document ends with the press, institutional and further-reading links
+sovrn.art carries for that artist. Coverage is uneven and the documents say so
+rather than papering over it: Rutherford Chang has around forty links including
+Frieze, ARTnews, The Art Newspaper, Monopol and two Chinese outlets, while for
+several artists the site carries nothing but their own site.
+
+Every link was checked on 27 August 2026. Four were dead and are **marked in
+place rather than removed**, since a reader is better served knowing a source
+existed than wondering why it is missing.
+
+One judgement call worth naming: the *GAN Timeline* on the Painting with Fire
+page carries roughly 170 outbound citations — arXiv papers, museum pages, other
+artists' profiles. Those are the sources of the history Bård Ionson assembled,
+not press about him, so his document links the timeline whole instead of listing
+them.
+
 ## Provenance and corrections
 
 Work counts are `totalSupply()` read from each collection's contract rather than

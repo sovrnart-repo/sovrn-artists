@@ -61,7 +61,7 @@ not a number the page leads with.
 
 **Francisco Carolinum, Linz — permanent collection.** *Noctilucent Memento #142*
 is one of eleven works in the Sovrn Full Ethereum Set. Curator Julia Staudach; OÖ
-Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+Landes-Kultur GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 **ART OF PUNK** — Francisco Carolinum, Linz, and the metaverse Voxels; OÖ
 Landes-Kultur GmbH, 4 September 2024 – 26 January 2025, curated by Julia
@@ -72,7 +72,9 @@ Ethereum Set, but a separate exhibition.
 
 *This one is not documented on sovrn.art* — it comes from our submission corpus,
 so here is the primary source rather than our word for it:
-<https://www.ooekultur.at/en/exhibitions-events/art-of-punk>
+<https://www.ooekultur.at/en/exhibitions-events/art-of-punk> — **note this
+  page has since been taken down** (404 as of 27 August 2026); the museum itself
+  is at <https://www.ooekultur.at/en/location-detail/francisco-carolinum-linz>
 
 ---
 
@@ -84,3 +86,15 @@ so here is the primary source rather than our word for it:
 | History of Crypto Art timeline | <https://mlo.art/research/history-of-crypto-art/> |
 | *Noctilucent Mementi* | <https://www.sovrn.art/curated/mementi> |
 | Raster | <https://www.raster.art/artwork/noctilucent-mementi-by-martin-lukas-ostachowski> |
+
+## Press and further reading
+
+- History of Crypto Art — MLO's own timeline, a reference in its own right — <https://mlo.art/research/history-of-crypto-art/>
+- ART OF PUNK, OÖ Landes-Kultur — the exhibition he was in alongside Van Arman — <https://www.ooekultur.at/en/exhibitions-events/art-of-punk> — **note this
+  page has since been taken down** (404 as of 27 August 2026); the museum itself
+  is at <https://www.ooekultur.at/en/location-detail/francisco-carolinum-linz>
+- <https://mlo.art/>
+
+sovrn.art carries no press coverage of MLO beyond these. He has written
+extensively about CENTS as a collector — those essays are listed in the Rutherford
+Chang document rather than here.

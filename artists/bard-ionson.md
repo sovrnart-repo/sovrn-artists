@@ -56,7 +56,7 @@ ask and we will send it.
 
 **Francisco Carolinum, Linz — permanent collection.** *Alternate Fires* is one of
 eleven works in the Sovrn Full Ethereum Set. Curator Julia Staudach; OÖ
-Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
+Landes-Kultur GmbH. <https://www.sovrn.art/collections/fransisco-carolinum>
 
 ---
 
@@ -67,3 +67,26 @@ Landes-Kultur GmbH. <https://www.sovrn.art/museums/fransisco-carolinum>
 | Artist site | <https://bardionson.com> |
 | *Painting with Fire* | <https://www.sovrn.art/curated/painting-with-fire> |
 | Raster | <https://www.raster.art/artwork/painting-with-fire-a-history-in-gans-by-bard-ionson> |
+
+## Press and further reading
+
+**A note on what the GAN Timeline is.** sovrn.art hosts *GAN Timeline*, a
+chronology of milestones in the history of GANs compiled by Ionson while
+researching *Painting with Fire*, and each of the 200 artworks ties to an entry
+in it. It carries roughly **170 outbound citations** — arXiv papers, museum
+pages, other artists' profiles.
+
+Those are the sources of the history he assembled, **not press about him**, and
+listing them here would misrepresent both. The timeline is better linked whole:
+
+- GAN Timeline — <https://www.sovrn.art/curated/painting-with-fire/gan-timeline>
+
+**The artist**
+
+- <https://bardionson.com/>
+- Instagram — <https://www.instagram.com/bardionson/>
+- X — <https://twitter.com/BardIonson>
+
+Beyond that, sovrn.art carries no press coverage of Ionson. His work is in the
+Oxford Bodleian Weston Library and the Centre Pompidou; if you want citations for
+those we can ask him for them.
